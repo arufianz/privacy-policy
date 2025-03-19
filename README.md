@@ -1,8 +1,8 @@
 Privacy Policy
 
-Effective Date: [Insert Date]
+Effective Date: 19 March
 
-Thank you for playing [Game Name] ("the Game"). Your privacy is important to us. This Privacy Policy explains how we handle user information while you use our Game.
+Thank you for playing Groovy Ball ("Groovy Ball"). Your privacy is important to us. This Privacy Policy explains how we handle user information while you use our Game.
 
 1. No Data Collection
 
@@ -34,6 +34,6 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 8. Contact Us
 
-If you have any questions about this Privacy Policy, feel free to contact us at: [Your Contact Email]
+If you have any questions about this Privacy Policy, feel free to contact us at: alfianwashere@gmail.com
 
 By playing the Game, you agree to this Privacy Policy.
