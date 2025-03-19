@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: 19 March
+Effective Date: 19 March 2025
 
 Thank you for playing Groovy Ball ("Groovy Ball"). Your privacy is important to us. This Privacy Policy explains how we handle user information while you use our Game.
 
